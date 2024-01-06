@@ -2,6 +2,7 @@
 ## Author: Johan Cruz Hernandez
 ## Programming Language: C
 ### About:
+This is a C program that calculates the wind chill temperature given wind velocity and current temperature as parameters passed in by the user.
 ### How to run:
 - Compile chill.c: ```gcc chill.c -o chill```
 ### Use Case #1 (no parameters passed): ```./chill```
